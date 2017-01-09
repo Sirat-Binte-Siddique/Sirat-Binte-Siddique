@@ -1,0 +1,23 @@
+{
+  "name": "sirat-binte-siddique",
+  "version": "1.0.0",
+  "description": "this is my personal site :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirat-Binte-Siddique/sirat-binte-siddique.git"
+  },
+  "author": "sirat-self",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirat-Binte-Siddique/sirat-binte-siddique/issues"
+  },
+  "homepage": "https://github.com/Sirat-Binte-Siddique/sirat-binte-siddique#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
